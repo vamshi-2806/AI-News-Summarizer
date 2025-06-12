@@ -1,31 +1,55 @@
-AI-NEWS-SUMMARIZER
 
-Overview
-AI-News-Summarizer is a developer-focused tool designed to automate the processing of news articles through AI-powered fetching, classification, and summarization. It streamlines content analysis workflows, making large-scale news data more accessible and actionable.
+# 📰 AI-News-Summarizer
 
-Why AI-News-Summarizer?
-This project simplifies the complex task of news content analysis by integrating multiple AI agents into a cohesive system. The core features include:
+AI-News-Summarizer is a developer-friendly tool that automates the processing of news articles using AI-powered fetching, classification, and summarization. It streamlines content workflows to make large-scale news analysis more accessible and actionable.
 
-🧩 Content Fetching & Summarization: Automates retrieval and concise summarization of news articles from URLs.
+---
 
-🚀 AI Agent Integration: Combines specialized AI modules for scalable and efficient processing.
+## 🔍 Why Use AI-News-Summarizer?
 
-🔐 Secure API Access: Provides clear instructions for configuring environment variables for GEMINI API authentication.
+This tool simplifies complex news analysis by integrating multiple AI agents into a single workflow. Key features include:
 
-🗂️ Content Classification: Categorizes articles into relevant topics for targeted insights.
+- 🧩 **Content Fetching & Summarization**: Automatically retrieves and summarizes articles from URLs.
+- 🚀 **AI Agent Integration**: Utilizes modular AI agents for scalable and efficient processing.
+- 🔐 **Secure API Access**: Easily configure GEMINI API keys using environment variables.
+- 🗂️ **Content Classification**: Categorizes articles by topic for better organization and insights.
+- 💡 **Developer-Friendly Workflow**: Simple to use and integrate into existing systems.
 
-💡 Developer-Friendly Workflow: Designed for easy integration into existing systems, boosting productivity.
+---
 
-Installation
-Build AI-News-Summarizer from the source and install dependencies:
+## 🛠️ Installation
 
-1. Clone the repository:
-  git clone https://github.com/vamshi-2806/AI-News-Summarizer
+Follow these steps to set up the project:
 
-2. Navigate to the project directory:
-  cd AI-News-Summarizer
-3. Install the dependencies:
-  pip install -r requirements.txt
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/vamshi-2806/AI-News-Summarizer
+    ```
 
-Run the project with:
-  python main.py
+2. **Navigate to the project directory**:
+    ```bash
+    cd AI-News-Summarizer
+    ```
+
+3. **Install the dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+---
+
+## 🚀 Usage
+
+Run the application:
+
+```bash
+python main.py
+```
+
+Make sure to configure your environment variables for GEMINI API access in a `.env` file.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
