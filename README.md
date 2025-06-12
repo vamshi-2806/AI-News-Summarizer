@@ -28,6 +28,4 @@ Build AI-News-Summarizer from the source and install dependencies:
   pip install -r requirements.txt
 
 Run the project with:
-
-Using pip:
   python main.py
