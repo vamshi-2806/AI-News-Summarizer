@@ -1,4 +1,4 @@
-#AI-NEWS-SUMMARIZER
+AI-NEWS-SUMMARIZER
 
 Overview
 AI-News-Summarizer is a developer-focused tool designed to automate the processing of news articles through AI-powered fetching, classification, and summarization. It streamlines content analysis workflows, making large-scale news data more accessible and actionable.
@@ -6,7 +6,7 @@ AI-News-Summarizer is a developer-focused tool designed to automate the processi
 Why AI-News-Summarizer?
 This project simplifies the complex task of news content analysis by integrating multiple AI agents into a cohesive system. The core features include:
 
-🧩 📰 Content Fetching & Summarization: Automates retrieval and concise summarization of news articles from URLs.
+🧩 Content Fetching & Summarization: Automates retrieval and concise summarization of news articles from URLs.
 
 🚀 AI Agent Integration: Combines specialized AI modules for scalable and efficient processing.
 
