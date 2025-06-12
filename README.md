@@ -15,3 +15,19 @@ This project simplifies the complex task of news content analysis by integrating
 🗂️ Content Classification: Categorizes articles into relevant topics for targeted insights.
 
 💡 Developer-Friendly Workflow: Designed for easy integration into existing systems, boosting productivity.
+
+Installation
+Build AI-News-Summarizer from the source and install dependencies:
+
+1. Clone the repository:
+  git clone https://github.com/vamshi-2806/AI-News-Summarizer
+
+2. Navigate to the project directory:
+  cd AI-News-Summarizer
+3. Install the dependencies:
+  pip install -r requirements.txt
+
+Run the project with:
+
+Using pip:
+  python main.py
