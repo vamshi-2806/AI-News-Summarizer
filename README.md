@@ -1,3 +1,3 @@
-Create a .env file and store your GEMINI API as 
+AI-NEWS-SUMMARIZER
 
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
