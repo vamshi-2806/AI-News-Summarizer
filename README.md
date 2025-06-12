@@ -1,3 +1,17 @@
 AI-NEWS-SUMMARIZER
 
-GEMINI_API_KEY="YOUR_API_KEY_HERE"
+Overview
+AI-News-Summarizer is a developer-focused tool designed to automate the processing of news articles through AI-powered fetching, classification, and summarization. It streamlines content analysis workflows, making large-scale news data more accessible and actionable.
+
+Why AI-News-Summarizer?
+This project simplifies the complex task of news content analysis by integrating multiple AI agents into a cohesive system. The core features include:
+
+🧩 📰 Content Fetching & Summarization: Automates retrieval and concise summarization of news articles from URLs.
+
+🚀 AI Agent Integration: Combines specialized AI modules for scalable and efficient processing.
+
+🔐 Secure API Access: Provides clear instructions for configuring environment variables for GEMINI API authentication.
+
+🗂️ Content Classification: Categorizes articles into relevant topics for targeted insights.
+
+💡 Developer-Friendly Workflow: Designed for easy integration into existing systems, boosting productivity.
